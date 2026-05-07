@@ -1,9 +1,7 @@
-# ── Stock Market Data Analyzer — Requirements ────────────────────────────────
-# Python >= 3.10
-# Install: pip install -r requirements.txt
-
-yfinance>=0.2.38        # Yahoo Finance free data API
-pandas>=2.1.0           # Data manipulation and time-series
-numpy>=1.26.0           # Numerical calculations
-matplotlib>=3.8.0       # Charts and visualisation
-seaborn>=0.13.0         # Heatmap styling
+yfinance>=0.2.38
+pandas>=2.1.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.22.0
+streamlit>=1.35.0
