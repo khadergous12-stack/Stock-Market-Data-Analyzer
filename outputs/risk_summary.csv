@@ -1,0 +1,4 @@
+Ticker,Total_Return%,Annual_Return%,Daily_Vol%,Annual_Vol%,Sharpe_Ratio,Max_Drawdown%,VaR_95%,Positive_Days%,Best_Day%,Worst_Day%,Win_Streak_Days,Loss_Streak_Days
+AAPL,485.63,28.82,1.9252,30.56,0.9818,-38.73,-2.9537,53.7,11.9808,-12.8647,11,8
+MSFT,394.27,25.72,1.8211,28.91,0.9368,-37.56,-2.848,53.8,14.2169,-14.739,9,7
+GOOGL,256.39,19.97,1.9397,30.79,0.7455,-44.32,-2.9847,53.8,10.2244,-11.6342,9,7

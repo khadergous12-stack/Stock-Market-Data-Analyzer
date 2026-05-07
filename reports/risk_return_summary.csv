@@ -1,0 +1,4 @@
+Ticker,Last_Close,Total_Return%,Annual_Return%,Annual_Vol%,Sharpe_Ratio,Max_DD%,VaR_95%,Signal
+AAPL,252.2,485.63,28.82,30.56,0.982,-38.73,-2.9537,BUY BUY
+MSFT,424.83,394.27,25.72,28.91,0.937,-37.56,-2.848,BUY BUY
+GOOGL,191.24,256.39,19.97,30.79,0.746,-44.32,-2.9847,BUY BUY

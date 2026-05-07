@@ -1,0 +1,238 @@
+
+╔══════════════════════════════════════════════════════════╗
+║         STOCK MARKET DATA ANALYZER — FINAL REPORT       ║
+║  Generated : 08 May 2026  00:57:04                       ║
+║  Tickers   : AAPL (Apple)  |  MSFT (Microsoft)  |  GOOGL║
+║  Data From : Yahoo Finance (yfinance)                    ║
+║  Period    : 2018-01-01  →  2024-12-31                   ║
+╚══════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════╗
+║               ⚠  IMPORTANT DISCLAIMER  ⚠               ║
+╠══════════════════════════════════════════════════════════╣
+║  This report is generated for EDUCATIONAL PURPOSES ONLY.║
+║  It does NOT constitute financial, investment, or        ║
+║  trading advice of any kind.                            ║
+║  Past performance does NOT guarantee future results.     ║
+║  Always consult a SEBI-registered or qualified financial ║
+║  advisor before making any investment decisions.         ║
+╚══════════════════════════════════════════════════════════╝
+
+
+════════════════════════════════════════════════════════════
+  📈  AAPL
+════════════════════════════════════════════════════════════
+
+  Company      : Apple Inc.
+  Exchange     : NASDAQ
+  Data Period  : 2018-01-02  →  2024-12-30
+  Trading Days : 1,760
+
+────────────────────────────────────────────────────────────
+  PRICE SUMMARY
+────────────────────────────────────────────────────────────
+  Opening Price (2018)    : $     43.06
+  Latest Close            : $    252.20
+  All-Time High           : $    259.02
+  All-Time Low            : $     35.55
+  Average Close Price     : $    124.21
+
+────────────────────────────────────────────────────────────
+  MOVING AVERAGES (Latest Values)
+────────────────────────────────────────────────────────────
+  SMA-20  (20-day avg)    : $    249.27
+  SMA-50  (50-day avg)    : $    237.29
+  SMA-200 (200-day avg)   : $    213.02
+  EMA-20  (exp. avg)      : $    248.93
+  Current Signal          : BUY 🟢
+  Golden Crosses          : 19
+  Death Crosses           : 18
+
+────────────────────────────────────────────────────────────
+  RETURN ANALYSIS
+────────────────────────────────────────────────────────────
+  Total Return            :    485.63%
+  Annualised Return       :     28.82%
+  Average Daily Return    :    0.1191%
+  Best Single Day         :   11.9808%
+  Worst Single Day        :  -12.8647%
+  Positive Days           :       944 (53.7%)
+  Negative Days           :       811 (46.3%)
+
+────────────────────────────────────────────────────────────
+  RISK ANALYSIS
+────────────────────────────────────────────────────────────
+  Daily Volatility        :    1.9252%
+  Annual Volatility       :     30.56%
+  Sharpe Ratio            :    0.9818
+  Maximum Drawdown        :    -38.73%
+  VaR (95%, 1-day)        :   -2.9537%
+    Interpretation: On 95% of days, daily loss ≤ 2.95%
+
+────────────────────────────────────────────────────────────
+  INSIGHTS & INTERPRETATION
+────────────────────────────────────────────────────────────
+  ⚡ Sharpe Ratio 0.98 → Moderate returns vs. risk
+  ⚠  Return (28.8%) < Volatility (30.6%) → High risk for return earned
+  ⚡ Max Drawdown -38.7% → Significant but recoverable
+  ✅ SMA-20 > SMA-50 → Short-term momentum is BULLISH
+
+════════════════════════════════════════════════════════════
+  📈  MSFT
+════════════════════════════════════════════════════════════
+
+  Company      : Microsoft Corp.
+  Exchange     : NASDAQ
+  Data Period  : 2018-01-02  →  2024-12-30
+  Trading Days : 1,760
+
+────────────────────────────────────────────────────────────
+  PRICE SUMMARY
+────────────────────────────────────────────────────────────
+  Opening Price (2018)    : $     85.95
+  Latest Close            : $    424.83
+  All-Time High           : $    467.56
+  All-Time Low            : $     85.01
+  Average Close Price     : $    243.22
+
+────────────────────────────────────────────────────────────
+  MOVING AVERAGES (Latest Values)
+────────────────────────────────────────────────────────────
+  SMA-20  (20-day avg)    : $    440.30
+  SMA-50  (50-day avg)    : $    428.48
+  SMA-200 (200-day avg)   : $    425.14
+  EMA-20  (exp. avg)      : $    436.02
+  Current Signal          : BUY 🟢
+  Golden Crosses          : 19
+  Death Crosses           : 18
+
+────────────────────────────────────────────────────────────
+  RETURN ANALYSIS
+────────────────────────────────────────────────────────────
+  Total Return            :    394.27%
+  Annualised Return       :     25.72%
+  Average Daily Return    :    0.1075%
+  Best Single Day         :   14.2169%
+  Worst Single Day        :  -14.7390%
+  Positive Days           :       947 (53.8%)
+  Negative Days           :       807 (46.2%)
+
+────────────────────────────────────────────────────────────
+  RISK ANALYSIS
+────────────────────────────────────────────────────────────
+  Daily Volatility        :    1.8211%
+  Annual Volatility       :     28.91%
+  Sharpe Ratio            :    0.9368
+  Maximum Drawdown        :    -37.56%
+  VaR (95%, 1-day)        :   -2.8480%
+    Interpretation: On 95% of days, daily loss ≤ 2.85%
+
+────────────────────────────────────────────────────────────
+  INSIGHTS & INTERPRETATION
+────────────────────────────────────────────────────────────
+  ⚡ Sharpe Ratio 0.94 → Moderate returns vs. risk
+  ⚠  Return (25.7%) < Volatility (28.9%) → High risk for return earned
+  ⚡ Max Drawdown -37.6% → Significant but recoverable
+  ✅ SMA-20 > SMA-50 → Short-term momentum is BULLISH
+
+════════════════════════════════════════════════════════════
+  📈  GOOGL
+════════════════════════════════════════════════════════════
+
+  Company      : Alphabet Inc. (Google)
+  Exchange     : NASDAQ
+  Data Period  : 2018-01-02  →  2024-12-30
+  Trading Days : 1,760
+
+────────────────────────────────────────────────────────────
+  PRICE SUMMARY
+────────────────────────────────────────────────────────────
+  Opening Price (2018)    : $     53.66
+  Latest Close            : $    191.24
+  All-Time High           : $    196.66
+  All-Time Low            : $     49.23
+  Average Close Price     : $    101.53
+
+────────────────────────────────────────────────────────────
+  MOVING AVERAGES (Latest Values)
+────────────────────────────────────────────────────────────
+  SMA-20  (20-day avg)    : $    186.65
+  SMA-50  (50-day avg)    : $    177.40
+  SMA-200 (200-day avg)   : $    169.25
+  EMA-20  (exp. avg)      : $    187.66
+  Current Signal          : BUY 🟢
+  Golden Crosses          : 19
+  Death Crosses           : 18
+
+────────────────────────────────────────────────────────────
+  RETURN ANALYSIS
+────────────────────────────────────────────────────────────
+  Total Return            :    256.39%
+  Annualised Return       :     19.97%
+  Average Daily Return    :    0.0911%
+  Best Single Day         :   10.2244%
+  Worst Single Day        :  -11.6342%
+  Positive Days           :       947 (53.8%)
+  Negative Days           :       810 (46.2%)
+
+────────────────────────────────────────────────────────────
+  RISK ANALYSIS
+────────────────────────────────────────────────────────────
+  Daily Volatility        :    1.9397%
+  Annual Volatility       :     30.79%
+  Sharpe Ratio            :    0.7455
+  Maximum Drawdown        :    -44.32%
+  VaR (95%, 1-day)        :   -2.9847%
+    Interpretation: On 95% of days, daily loss ≤ 2.98%
+
+────────────────────────────────────────────────────────────
+  INSIGHTS & INTERPRETATION
+────────────────────────────────────────────────────────────
+  ⚡ Sharpe Ratio 0.75 → Moderate returns vs. risk
+  ⚠  Return (20.0%) < Volatility (30.8%) → High risk for return earned
+  ⚠  Max Drawdown -44.3% → High historical risk event
+  ✅ SMA-20 > SMA-50 → Short-term momentum is BULLISH
+
+════════════════════════════════════════════════════════════
+  📊  SIDE-BY-SIDE COMPARISON
+════════════════════════════════════════════════════════════
+
+Ticker             AAPL     MSFT    GOOGL
+Last_Close        252.2   424.83   191.24
+Total_Return%    485.63   394.27   256.39
+Annual_Return%    28.82    25.72    19.97
+Annual_Vol%       30.56    28.91    30.79
+Sharpe_Ratio      0.982    0.937    0.746
+Max_DD%          -38.73   -37.56   -44.32
+VaR_95%         -2.9537   -2.848  -2.9847
+Signal          BUY BUY  BUY BUY  BUY BUY
+
+
+════════════════════════════════════════════════════════════
+  📖  GLOSSARY OF TERMS
+════════════════════════════════════════════════════════════
+
+  SMA      : Simple Moving Average — average of last N closing prices
+  EMA      : Exponential Moving Average — recent prices weighted more
+  RSI      : Relative Strength Index — momentum oscillator (0-100)
+  MACD     : Moving Avg Convergence Divergence — trend/momentum signal
+  Sharpe   : (Return - RiskFreeRate) / Volatility — risk-adjusted return
+  Max DD   : Maximum Drawdown — largest peak-to-trough portfolio decline
+  VaR 95%  : Value at Risk — estimated max daily loss at 95% confidence
+  Volatility: Standard deviation of returns (annualised × √252)
+  Bollinger: Price envelope ±2 std dev around 20-day SMA
+  Golden ↑ : SMA-20 crosses above SMA-50 (bullish signal)
+  Death  ↓ : SMA-20 crosses below SMA-50 (bearish signal)
+
+════════════════════════════════════════════════════════════
+
+╔══════════════════════════════════════════════════════════╗
+║               ⚠  IMPORTANT DISCLAIMER  ⚠               ║
+╠══════════════════════════════════════════════════════════╣
+║  This report is generated for EDUCATIONAL PURPOSES ONLY.║
+║  It does NOT constitute financial, investment, or        ║
+║  trading advice of any kind.                            ║
+║  Past performance does NOT guarantee future results.     ║
+║  Always consult a SEBI-registered or qualified financial ║
+║  advisor before making any investment decisions.         ║
+╚══════════════════════════════════════════════════════════╝
