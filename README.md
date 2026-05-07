@@ -352,26 +352,6 @@ python main.py                   # then run normally
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots to `images/` after running the project:
-
-| Screenshot | What to capture |
-|-----------|----------------|
-| `images/01_folder_structure.png` | Project folder in VS Code/Explorer |
-| `images/02_terminal_step1.png` | Step 1 data fetch output |
-| `images/03_terminal_step5.png` | Risk analysis terminal output |
-| `images/04_AAPL_price_chart.png` | AAPL_02_moving_averages.png |
-| `images/05_bollinger.png` | AAPL_03_bollinger_bands.png |
-| `images/06_returns_dist.png` | AAPL_04_daily_returns.png |
-| `images/07_heatmap.png` | AAPL_08_monthly_heatmap.png |
-| `images/08_comparison.png` | comparison_cumulative_return.png |
-| `images/09_dashboard.png` | Streamlit dashboard screenshot |
-| `images/10_report_output.png` | reports/stock_analysis_report.txt |
-| `images/11_github_repo.png` | Your GitHub repo page |
-
----
-
 ## 🎓 Learning Outcomes
 
 After completing this project you will know:
@@ -403,32 +383,6 @@ After completing this project you will know:
 - Dark-themed professional Plotly charts
 - Interactive Streamlit dashboards
 - Saving charts as PNG for GitHub
-
----
-
-## 🗓 GitHub Proof-of-Work Plan (6 Days)
-
-| Day | Task | What to Commit |
-|-----|------|---------------|
-| **Day 1** | Project setup + folder structure | `feat: initialise project structure and requirements` |
-| **Day 2** | Step 1 + Step 2 | `feat: add data collection and cleaning modules` |
-| **Day 3** | Step 3 + Step 4 | `feat: add EDA and moving average computation` |
-| **Day 4** | Step 5 | `feat: add risk and volatility analysis` |
-| **Day 5** | Step 6 | `feat: generate 25 visualisation charts` |
-| **Day 6** | Step 7 + dashboard + README + outputs | `docs: final report, dashboard, README, charts, screenshots` |
-
-### GitHub Repository Settings
-
-**Repo name:** `Stock-Market-Data-Analyzer`
-**Description:** `Python project that analyzes stock market data using pandas, numpy, matplotlib, plotly and yfinance. Includes Streamlit dashboard with 7 analysis tabs. Computes moving averages, RSI, MACD, returns, risk metrics and generates charts. Educational purposes only.`
-
-**Topics to add:**
-```
-python  stock-market  data-analysis  pandas  numpy  matplotlib
-yfinance  financial-analysis  data-visualization  student-project
-moving-averages  risk-analysis  time-series  eda  seaborn
-streamlit  plotly  dashboard  rsi  macd
-```
 
 ---
 
